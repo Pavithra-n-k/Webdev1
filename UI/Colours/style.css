@@ -1,0 +1,23 @@
+:root {
+  --primary: #b38bea;
+  --secondary: #e3d4b7;
+  --white: white;
+  --dark: #200053;
+}
+
+header {
+  background-color: var(--primary);
+  color: var(--secondary);
+  font-size: 40px;
+  padding: 30px 20px;
+  font-weight: 700;
+}
+main {
+  background-color: var(--white);
+}
+footer {
+  background-color: var(--primary);
+  color: var(--white);
+  padding: 20px;
+}
+ 
